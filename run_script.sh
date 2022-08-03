@@ -1,0 +1,1 @@
+python3 /Users/kay/Documents/threshinghouse/anbr2022/send_anbr2002_conf_mail.py
